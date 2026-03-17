@@ -14,8 +14,7 @@ tagline: Security Research & CTF Writeups # ✏️ أو أي وصف
 description: >-
   Personal blog for security research, CTF writeups, and DFIR notes.
 
-url: "https://mina-maxx.github.io" # لازم بالظبط كده بدون slash
-
+url: "https://mina-maxx.github.io"
 github:
   username: Mina-Maxx
 
