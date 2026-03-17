@@ -10,7 +10,7 @@ description: >-
   Personal blog for security research, CTF writeups, and DFIR notes.
 
 url: "https://mina-maxx.github.io"
-baseurl: ""
+baseurl: "/0xAnub1sX.github.io"
 
 github:
   username: Mina-Maxx
