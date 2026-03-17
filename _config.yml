@@ -15,7 +15,6 @@ description: >-
   Personal blog for security research, CTF writeups, and DFIR notes.
 
 url: "https://mina-maxx.github.io"
-baseurl: "/0xAnub1sX.github.io"
 github:
   username: Mina-Maxx
 
@@ -97,7 +96,7 @@ pwa:
 
 paginate: 10
 
-baseurl: ""
+baseurl: "/0xAnub1sX.github.io"
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
