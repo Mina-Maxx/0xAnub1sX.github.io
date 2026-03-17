@@ -1,29 +1,26 @@
 # The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
 
 lang: en
-
 timezone: Africa/Cairo
 
-title: 0xAnub1sX Blog # ✏️ اسم البلوج
-
-tagline: Security Research & CTF Writeups # ✏️ أو أي وصف
-
+title: 0xAnub1sX Blog
+tagline: Security Research & CTF Writeups
 description: >-
   Personal blog for security research, CTF writeups, and DFIR notes.
 
 url: "https://mina-maxx.github.io"
+baseurl: "/0xAnub1sX.github.io"
+
 github:
   username: Mina-Maxx
 
 twitter:
-  username: # اتركه فاضي لو مش عندك
+  username:
 
 social:
-  name: Mina Maxx # ✏️ اسمك
-  email: your@email.com # ✏️ إيميلك
+  name: Mina Maxx
+  email: your@email.com
   fediverse_handle:
   links:
     - https://github.com/Mina-Maxx
@@ -55,11 +52,11 @@ analytics:
 pageviews:
   provider:
 
-theme_mode: dark # ✏️ أو light
+theme_mode: dark
 
 cdn:
 
-avatar: # ✏️ ممكن تحط رابط صورة بعدين
+avatar:
 
 social_preview_image:
 
@@ -95,8 +92,6 @@ pwa:
     deny_paths:
 
 paginate: 10
-
-baseurl: "/0xAnub1sX.github.io"
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
